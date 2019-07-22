@@ -3,7 +3,7 @@ import SHOP_DATA from './shopping-data'
 
 import CollectionPreview from '../../components/preview-collection/preview-collection.component'
 
-class ShopePage extends React.Component {
+class ShopPage extends React.Component {
     constructor() {
         super();
         this.state = {
@@ -21,4 +21,4 @@ class ShopePage extends React.Component {
     }
 }
 
-export default ShopePage;
+export default ShopPage;
