@@ -28,4 +28,12 @@
     margin-left: auto;
     font-size: 36px;
   }
+
+  .test-warning {
+    font-size: 30px;
+    color: red($color: #000000);
+    display: flex;
+    justify-content: center;
+    text-align: center
+  }
 }
