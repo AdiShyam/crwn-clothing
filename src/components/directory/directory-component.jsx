@@ -6,7 +6,7 @@ import { createStructuredSelector } from 'reselect';
 import './directory.styles.scss';
 
 const Directory = ({ sections }) => {
-    console.log("the sections are ", sections)
+    // console.log("the sections are ", sections)
     return (
         <div className='directory-menu'>
             {
